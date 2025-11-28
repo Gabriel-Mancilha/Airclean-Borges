@@ -1,0 +1,3 @@
+Os testes são fundamentais para garantir que o sistema funcione corretamente e de forma estável. Eles ajudam a identificar erros antes que o software seja usado pelo cliente, evitando falhas em produção. Além disso, os testes garantem que novas funcionalidades não causem problemas nas partes já existentes, mantendo o sistema consistente ao longo do tempo.
+
+Outro benefício é que os testes tornam o comportamento esperado do sistema mais claro, funcionando como uma documentação prática. Com eles, a manutenção se torna mais fácil e barata, já que erros são encontrados mais cedo. Tudo isso aumenta a confiança dos desenvolvedores em realizar mudanças e melhora a experiência do usuário, resultando em um sistema mais seguro, estável e confiável.
